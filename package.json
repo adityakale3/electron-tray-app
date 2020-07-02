@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adityakale3/electron_music_app.git"
+    "url": "git+https://github.com/adityakale3/electron-tray-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adityakale3/electron_music_app/issues"
+    "url": "https://github.com/adityakale3/electron-tray-app/issues"
   },
-  "homepage": "https://github.com/adityakale3/electron_music_app#readme",
+  "homepage": "https://github.com/adityakale3/electron-tray-app#readme",
   "dependencies": {
     "electron": "^9.0.5",
     "jquery": "^3.5.1",
